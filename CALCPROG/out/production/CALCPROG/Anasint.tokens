@@ -1,0 +1,25 @@
+BLANCO=1
+TABULADOR=2
+FIN_LINEA=3
+IDENT=4
+NUM=5
+PC=6
+PA=7
+PYC=8
+COMA=9
+IGUAL=10
+MAS=11
+MENOS=12
+POR=13
+DIV=14
+' '=1
+'\t'=2
+')'=6
+'('=7
+';'=8
+','=9
+'='=10
+'+'=11
+'-'=12
+'*'=13
+'/'=14
